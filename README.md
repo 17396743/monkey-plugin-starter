@@ -1,12 +1,12 @@
 # 冬灰条哔哩哔哩音乐播放器
 
-### 项目名称   monkey-plugin-starter
+#### 项目名称   monkey-plugin-starter
 
-### 版本号：0.5.2
+#### 版本号：0.5.2
 
-### 制作者：冬灰条
+#### 制作者：冬灰条
 
-### 介绍：可以把b站变成音乐播放器。作者b站连接：https://space.bilibili.com/8212729
+#### 介绍：可以把b站变成音乐播放器。作者b站连接：https://space.bilibili.com/8212729
 
 ````
 
@@ -15,6 +15,9 @@
 这里补发自己的备份版本。没改里面内容，和原先一样的。
 
 ````
+#### 效果图：
+![QQ截图20240318141716](https://github.com/17396743/monkey-plugin-starter/assets/70384877/06848eba-890b-4b3f-a265-0674e65f1eda)
+
 
 #### 条款声明   MIT
 
